@@ -1,0 +1,14 @@
+
+h5{display: flex;flex-direction: column;justify-content: center;}
+.header{display: flex;justify-content: center;flex-direction:column }
+.header1{display: flex;justify-content: space-evenly; }
+h6{display: flex;flex-direction: column;justify-content: center;}
+.camel{display: flex;flex-direction: column;justify-content: space-between;color: darkblue;}
+.chameleon{display: flex;flex-direction: column;justify-content: space-between;color: darkgoldenrod;}
+h1{color: crimson;display: flex;justify-content: center;}
+.pigeon{display: flex;flex-direction: column;justify-content:center;color: darkred;}
+.header2{display: flex;justify-content: space-between;flex-direction: row;}
+.teddy{display: flex;justify-content: center;flex-direction: column;color: darkslategrey;}
+.header3{display: flex;justify-content: space-between;flex-direction: row;}
+.panda{display: flex;justify-content: space-between;flex-direction:column;color: deeppink;}
+.cicada{display: flex;justify-content: space-between;flex-direction: column;color: mediumspringgreen;}
